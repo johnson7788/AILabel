@@ -1,0 +1,14 @@
+flask
+flask_cors
+flask_jwt_extended
+pymongo
+py2neo
+neo4j
+tika
+watchdog
+langchain
+langchain_community
+langchain_text_splitters
+pymysql
+xinference
+zhipuai

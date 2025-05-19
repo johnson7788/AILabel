@@ -1,0 +1,1 @@
+import{x as g,g as t}from"./index-f50d6d08.js";const m=g("message",()=>{const e=t("mind"),o=t({nodeData:{children:[],id:"root",root:!0,topic:"New"}}),s=t(),n=t(localStorage.getItem("language")||"en"),a=t(!1),r=t("未登录"),c=t({}),d=t("mind");return{ME:s,show_tags:e,new_data:o,language:n,show_shortcut:a,username:r,edit_minds:c,default_show:d}});export{m as s};

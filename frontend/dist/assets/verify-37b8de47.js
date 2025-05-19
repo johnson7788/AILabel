@@ -1,0 +1,1 @@
+import{_ as e}from"./navHeader.vue_vue_type_script_setup_true_lang-5f81fcc5.js";import{d as a,o,b as t,f as s,F as n,a as r}from"./index-f50d6d08.js";const _=r("div",null," 验证 ",-1),p=a({__name:"verify",setup(c){return(m,f)=>(o(),t(n,null,[s(e),_],64))}});export{p as default};

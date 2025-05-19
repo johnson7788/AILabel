@@ -1,0 +1,1 @@
+import{x as t,g as e}from"./index-f50d6d08.js";const d=t("message",()=>{const s=e(),a=e([]),n=e("bowu"),o=e([{name:"bowu",id:1},{name:"general",id:2},{name:"RTE",id:3}]);return{select_nodes:a,display_graph_data:s,data_dir:n,data_dir_list:o}}),i=t("settings",()=>({ragMode:e("hybrid")}));export{i as a,d as u};
